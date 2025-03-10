@@ -6,8 +6,8 @@
 This project focuses on analyzing patient wait times and satisfaction levels in Mercy General Hospital’s Emergency Room using Microsoft Power BI. The aim is to identify bottlenecks, optimize resource allocation, and enhance overall patient experience.
 
 ## 📌 Features
-✅ Interactive Power BI dashboard
-✅ Breakdown of patient demographics
+✅ Interactive Power BI dashboard <br>
+✅ Breakdown of patient demographics <br>
 ✅ Data-driven recommendations for hospital efficiency
 
 ## 📂 Data
